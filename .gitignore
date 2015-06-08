@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+StringConcatBenchmark.iml
+StringConcatBenchmark.ipr
+StringConcatBenchmark.iws
