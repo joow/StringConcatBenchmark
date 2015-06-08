@@ -4,4 +4,4 @@ StringConcatBenchmark is a toy project to implement simple JVM micro benchmarks 
 
 ## Run
 
-Just execute `./gradlew jmh` to run the benchmarks. Be aware that it takes a very long time !
+Just execute `./gradlew jmh` to run the benchmarks. Be aware that it takes around 10 minutes.
